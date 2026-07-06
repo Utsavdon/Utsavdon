@@ -24,7 +24,7 @@ name: "Utsav Donda"
 location: "Surat, Gujarat, India 🇮🇳"
 role: "Full Stack Flutter & FastAPI Developer"
 experience: "3+ Years in Production Systems"
-published_apps: "25+ Live Applications"
+published_apps: "30+ Live Applications"
 specialization: ["Flutter Development", "FastAPI Backend", "AI Integration", "Multi-Database Architecture"]
 current_focus: "Agentic AI Systems & Scalable Backend Infrastructure"
 education: "Bachelor of Engineering in Computer Science"
